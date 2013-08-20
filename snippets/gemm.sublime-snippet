@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+source 'http://rubygems.org'
+
+gem 'rake'
+gem 'ProMotion'
+gem 'bubble-wrap'
+gem 'teacup'
+${1}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>gemm</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

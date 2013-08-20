@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"CoffeeScript",
+		"Cucumber Completion",
+		"Cucumber Step Finder",
+		"DashDoc",
+		"Elixir",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"Handlebars",
+		"LESS",
+		"Package Control",
+		"RubyTest",
+		"SASS Snippets",
+		"SCSS",
+		"sublime-github",
+		"SublimePythonIDE",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
